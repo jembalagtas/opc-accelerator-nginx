@@ -3,14 +3,14 @@
             {
                 "type": "Tool Links",
                 "components" : [
-                    {
+					{
                         "id": "jenkins",
                         "title": "jenkins",
                         "img": "img/jenkins.png",
                         "description": "Continuous Integration & Automation Server",
                         "link": "/jenkins/"
                     },
-					{
+                    {
                         "id": "erp-manager",
                         "title": "erp-manager",
                         "img": "img/erp-manager.png",
