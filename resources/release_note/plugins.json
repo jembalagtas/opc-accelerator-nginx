@@ -11,6 +11,13 @@
                         "link": "/jenkins/"
                     },
                     {
+                        "id": "### GITTYPE ###",
+                        "title": "### GITTYPE ###",
+                        "img": "### GITTYPE ###",
+                        "description": "Git Repository Management & Code Review Tool",
+                        "link": "### GITTYPE ###"
+                    },
+                    {
                         "id": "erp-manager",
                         "title": "erp-manager",
                         "img": "img/erp-manager.png",
@@ -20,13 +27,6 @@
                             "host": "erp-manager",
                             "endPath": "/"
                         }
-                    },
-                    {
-                        "id": "### GITTYPE ###",
-                        "title": "### GITTYPE ###",
-                        "img": "### GITTYPE ###",
-                        "description": "Git Repository Management & Code Review Tool",
-                        "link": "### GITTYPE ###"
                     },
                     {
                         "id": "sonar",
